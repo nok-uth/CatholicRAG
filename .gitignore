@@ -1,0 +1,18 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# ingest artifacts
+*.log
+ingest_checkpoint.txt
+
+# debug/scratch scripts
+_debug_retrieval.py
+
+# os
+.DS_Store
